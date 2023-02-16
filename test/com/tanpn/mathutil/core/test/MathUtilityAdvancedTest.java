@@ -23,7 +23,7 @@ public class MathUtilityAdvancedTest {
             {0, 1},
             {1, 1},
             {2, 2},
-            {3, 60},
+            {3, 6},
             {4, 24},
             {5, 120}
         };
