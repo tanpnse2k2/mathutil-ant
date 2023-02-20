@@ -14,3 +14,5 @@ build tool
 
 ### Connect me via tanpnse160117@fpt.edu.vn
 #### Copyright &#169; 2023
+
+[![Demonstration of Using CI with GitHub Actions, Ant and JUnit | © 2023 by tanpn](https://github.com/tanpnse2k2/mathutil-ant/actions/workflows/mathutil-ant-ci.yml/badge.svg)](https://github.com/tanpnse2k2/mathutil-ant/actions/workflows/mathutil-ant-ci.yml)
